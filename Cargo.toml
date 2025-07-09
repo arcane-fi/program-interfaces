@@ -1,0 +1,9 @@
+[workspace]
+members = [
+    "orca-interface",
+    "raydium-clmm-interface",
+    "kfarms-interface",
+]
+
+[workspace.dependencies]
+anchor-lang = "0.31.1"
