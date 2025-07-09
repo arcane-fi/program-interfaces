@@ -1,12 +1,12 @@
 [package]
-name = "kfarms_interface"
+name = "kfarms-interface"
 version = "0.1.0"
 description = "Interface for Kamino KFarms program"
 edition = "2021"
 
 [lib]
 crate-type = ["cdylib", "lib"]
-name = "kfarms_interface"
+name = "kfarms-interface"
 
 [features]
 default = []
